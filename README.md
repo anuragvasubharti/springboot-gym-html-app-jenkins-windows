@@ -37,7 +37,7 @@ None
 aws, azure, gcp
 
 ### **DevOps / CI/CD**
-docker
+None
 
 ### **Pipeline Components**
 None
